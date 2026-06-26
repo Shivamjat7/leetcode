@@ -2,37 +2,35 @@ class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& relations, vector<int>& time) {
         vector<vector<int>>adj(n+1);
+        vector<int>indegree(n+1,0);
         for(auto &edge:relations){
             adj[edge[0]].push_back(edge[1]);
+            indegree[edge[1]]++;
         }
-        vector<int>indegree(n+1,0);
-        for(int i=1;i<=n;i++){
-            for(int node:adj[i]){
-                indegree[node]++;
-            }
-        }
-        vector<int>prefixTime(n+1,0);
-        priority_queue<pair<int,int>>pq;
+      
+        vector<int>dp(n+1,0);
+        queue<int>q;
         for(int i=1;i<=n;i++){
             if(indegree[i]==0){
-                prefixTime[i]=time[i-1];
-                pq.push({time[i-1],i});
+                dp[i]=time[i-1];
+                q.push(i);
             }
         }
-        int mxTime =0;
-        while(!pq.empty()){
-            auto [t,node]=pq.top();
-            pq.pop();
-            if(t<prefixTime[node])continue;
-            mxTime = max(t,mxTime);
+        int ans =0;
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            ans = max(dp[node],ans);
             for(int neigh:adj[node]){
-                if(t+time[neigh-1]>prefixTime[neigh]){
-                    prefixTime[neigh]=t+time[neigh-1];
-                    pq.push({prefixTime[neigh],neigh});
-                }
+               indegree[neigh]--;
+            dp[neigh]=max(dp[neigh],dp[node]+time[neigh-1]);
+               if(indegree[neigh]==0){
+                q.push(neigh);
+               }
+               
             }
         }
-        return mxTime;
+        return ans;
         
     }
 };
