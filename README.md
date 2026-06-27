@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shivamjat7/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [2050-parallel-courses-iii](https://github.com/Shivamjat7/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamjat7/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shivamjat7/leetcode/tree/master/0133-clone-graph) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamjat7/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/Shivamjat7/leetcode/tree/master/2050-parallel-courses-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamjat7/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
