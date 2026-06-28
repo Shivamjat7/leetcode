@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shivamjat7/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shivamjat7/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
