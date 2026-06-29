@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2683-neighboring-bitwise-xor](https://github.com/Shivamjat7/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamjat7/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3895-count-digit-appearances](https://github.com/Shivamjat7/leetcode/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Shivamjat7/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
+| [3895-count-digit-appearances](https://github.com/Shivamjat7/leetcode/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
 | ------- |
