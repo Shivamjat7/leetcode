@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Shivamjat7/leetcode/tree/master/0133-clone-graph) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamjat7/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamjat7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shivamjat7/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
