@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [3895-count-digit-appearances](https://github.com/Shivamjat7/leetcode/tree/master/3895-count-digit-appearances) |
 ## String
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shivamjat7/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2050-parallel-courses-iii](https://github.com/Shivamjat7/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shivamjat7/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shivamjat7/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
