@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivamjat7/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivamjat7/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3895-count-digit-appearances](https://github.com/Shivamjat7/leetcode/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamjat7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivamjat7/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shivamjat7/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Simulation
 |  |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shivamjat7/leetcode/tree/master/3620-network-recovery-pathways) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivamjat7/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
