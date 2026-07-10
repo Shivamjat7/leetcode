@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Shivamjat7/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamjat7/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/Shivamjat7/leetcode/tree/master/0065-valid-number) |
 | [0165-compare-version-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0165-compare-version-numbers) |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Shivamjat7/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Shivamjat7/leetcode/tree/master/1044-longest-duplicate-substring) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
