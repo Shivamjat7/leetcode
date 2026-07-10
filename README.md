@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shivamjat7/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2683-neighboring-bitwise-xor](https://github.com/Shivamjat7/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamjat7/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shivamjat7/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivamjat7/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Shivamjat7/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -38,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamjat7/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivamjat7/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
+| [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivamjat7/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivamjat7/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3895-count-digit-appearances](https://github.com/Shivamjat7/leetcode/tree/master/3895-count-digit-appearances) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
+| [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 ## Linked List
 |  |
 | ------- |
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Counting
+|  |
+| ------- |
+| [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 <!---LeetCode Topics End-->
