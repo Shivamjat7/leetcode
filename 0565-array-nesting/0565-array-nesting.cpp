@@ -1,15 +1,15 @@
 class Solution {
 public:
     int setSize(int i,vector<int>&nums,vector<int>&vis){
-        unordered_set<int>st;
 
+        int cnt=0;
         while(true){
-            if(st.contains(nums[i]))break;
-            vis[nums[i]]=1;
-            st.insert(nums[i]);
+            if(vis[i])break;
+            vis[i]=1;
+            cnt++;
             i=nums[i];
         }
-        return st.size();
+        return cnt;
     }
     int arrayNesting(vector<int>& nums) {
         int ans=0;
