@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
+| [0565-array-nesting](https://github.com/Shivamjat7/leetcode/tree/master/0565-array-nesting) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Shivamjat7/leetcode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
+| [0565-array-nesting](https://github.com/Shivamjat7/leetcode/tree/master/0565-array-nesting) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
 | [1192-critical-connections-in-a-network](https://github.com/Shivamjat7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shivamjat7/leetcode/tree/master/2685-count-the-number-of-complete-components) |
