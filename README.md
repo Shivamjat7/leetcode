@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Shivamjat7/leetcode/tree/master/0174-dungeon-game) |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
+| [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/Shivamjat7/leetcode/tree/master/0565-array-nesting) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
+| [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
 | [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivamjat7/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivamjat7/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shivamjat7/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/Shivamjat7/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shivamjat7/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
