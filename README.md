@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shivamjat7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/Shivamjat7/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamjat7/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Shivamjat7/leetcode/tree/master/0146-lru-cache) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shivamjat7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/Shivamjat7/leetcode/tree/master/0065-valid-number) |
 | [0165-compare-version-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shivamjat7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1044-longest-duplicate-substring](https://github.com/Shivamjat7/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
