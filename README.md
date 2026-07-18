@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Shivamjat7/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shivamjat7/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamjat7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamjat7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/Shivamjat7/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shivamjat7/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Shivamjat7/leetcode/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamjat7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivamjat7/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivamjat7/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamjat7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivamjat7/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivamjat7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
