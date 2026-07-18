@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Shivamjat7/leetcode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/Shivamjat7/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Shivamjat7/leetcode/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Shivamjat7/leetcode/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Shivamjat7/leetcode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/Shivamjat7/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Shivamjat7/leetcode/tree/master/0212-word-search-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Shivamjat7/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shivamjat7/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivamjat7/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1288-remove-covered-intervals](https://github.com/Shivamjat7/leetcode/tree/master/1288-remove-covered-intervals) |
