@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Shivamjat7/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Shivamjat7/leetcode/tree/master/0212-word-search-ii) |
+| [0284-peeking-iterator](https://github.com/Shivamjat7/leetcode/tree/master/0284-peeking-iterator) |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
 | [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Shivamjat7/leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0284-peeking-iterator](https://github.com/Shivamjat7/leetcode/tree/master/0284-peeking-iterator) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Shivamjat7/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Shivamjat7/leetcode/tree/master/0398-random-pick-index) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Shivamjat7/leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
