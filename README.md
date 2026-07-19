@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
+| [0343-integer-break](https://github.com/Shivamjat7/leetcode/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/Shivamjat7/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Shivamjat7/leetcode/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/Shivamjat7/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Shivamjat7/leetcode/tree/master/0174-dungeon-game) |
+| [0343-integer-break](https://github.com/Shivamjat7/leetcode/tree/master/0343-integer-break) |
 | [0688-knight-probability-in-chessboard](https://github.com/Shivamjat7/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shivamjat7/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
