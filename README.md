@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/Shivamjat7/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/Shivamjat7/leetcode/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/Shivamjat7/leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Shivamjat7/leetcode/tree/master/0398-random-pick-index) |
