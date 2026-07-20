@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shivamjat7/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Shivamjat7/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shivamjat7/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shivamjat7/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Shivamjat7/leetcode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/Shivamjat7/leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivamjat7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Shivamjat7/leetcode/tree/master/0212-word-search-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
+| [1260-shift-2d-grid](https://github.com/Shivamjat7/leetcode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Shivamjat7/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shivamjat7/leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
