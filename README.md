@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivamjat7/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Shivamjat7/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3597-partition-string](https://github.com/Shivamjat7/leetcode/tree/master/3597-partition-string) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamjat7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3597-partition-string](https://github.com/Shivamjat7/leetcode/tree/master/3597-partition-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivamjat7/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Shivamjat7/leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Simulation
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Shivamjat7/leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3597-partition-string](https://github.com/Shivamjat7/leetcode/tree/master/3597-partition-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivamjat7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivamjat7/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shivamjat7/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Shivamjat7/leetcode/tree/master/0212-word-search-ii) |
+| [3597-partition-string](https://github.com/Shivamjat7/leetcode/tree/master/3597-partition-string) |
 ## Counting
 |  |
 | ------- |
