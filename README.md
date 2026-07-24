@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Shivamjat7/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
+| [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1044-longest-duplicate-substring](https://github.com/Shivamjat7/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivamjat7/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shivamjat7/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Shivamjat7/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivamjat7/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0165-compare-version-numbers) |
+| [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivamjat7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
