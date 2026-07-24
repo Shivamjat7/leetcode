@@ -1,16 +1,17 @@
 class Solution {
 public:
     int partitionString(string s) {
-        unordered_set<char>st;
-        int cnt =0;
+        int mask =0;
+        int cnt =1;
         for(char ch:s){
-            if(st.count(ch)){
+            int bit = 1<<(ch-'a');
+            if(mask &bit){
                 cnt++;
-                st.clear();
+                mask =0;
             }
-            st.insert(ch);
+            mask|=bit;
         }
-        if(!st.empty())cnt++;
+    
         return cnt;
     }
 };
