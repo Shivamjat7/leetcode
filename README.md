@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamjat7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivamjat7/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shivamjat7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivamjat7/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivamjat7/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shivamjat7/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Shivamjat7/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2611-mice-and-cheese](https://github.com/Shivamjat7/leetcode/tree/master/2611-mice-and-cheese) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shivamjat7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Shivamjat7/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivamjat7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Minimum Spanning Tree
