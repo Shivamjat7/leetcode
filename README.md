@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shivamjat7/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/Shivamjat7/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Shivamjat7/leetcode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/Shivamjat7/leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Shivamjat7/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivamjat7/leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Shivamjat7/leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Shivamjat7/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Shivamjat7/leetcode/tree/master/0174-dungeon-game) |
 | [0343-integer-break](https://github.com/Shivamjat7/leetcode/tree/master/0343-integer-break) |
