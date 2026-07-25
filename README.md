@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/Shivamjat7/leetcode/tree/master/0565-array-nesting) |
+| [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivamjat7/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
+| [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2611-mice-and-cheese](https://github.com/Shivamjat7/leetcode/tree/master/2611-mice-and-cheese) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shivamjat7/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shivamjat7/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Shivamjat7/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
+| [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1288-remove-covered-intervals](https://github.com/Shivamjat7/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -354,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 ## Geometry
 |  |
