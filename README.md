@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Shivamjat7/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/Shivamjat7/leetcode/tree/master/0641-design-circular-deque) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Shivamjat7/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/Shivamjat7/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Shivamjat7/leetcode/tree/master/0641-design-circular-deque) |
 ## Hash Function
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Shivamjat7/leetcode/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/Shivamjat7/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0622-design-circular-queue](https://github.com/Shivamjat7/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Shivamjat7/leetcode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/Shivamjat7/leetcode/tree/master/0725-split-linked-list-in-parts) |
 ## Two Pointers
 |  |
@@ -416,4 +419,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Shivamjat7/leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Shivamjat7/leetcode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
