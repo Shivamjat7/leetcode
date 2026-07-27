@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/Shivamjat7/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivamjat7/leetcode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/Shivamjat7/leetcode/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Shivamjat7/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0622-design-circular-queue](https://github.com/Shivamjat7/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Shivamjat7/leetcode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/Shivamjat7/leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Shivamjat7/leetcode/tree/master/0725-split-linked-list-in-parts) |
 ## Two Pointers
 |  |
