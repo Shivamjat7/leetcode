@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shivamjat7/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/Shivamjat7/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shivamjat7/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamjat7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamjat7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2611-mice-and-cheese](https://github.com/Shivamjat7/leetcode/tree/master/2611-mice-and-cheese) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shivamjat7/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1288-remove-covered-intervals](https://github.com/Shivamjat7/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/Shivamjat7/leetcode/tree/master/2611-mice-and-cheese) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivamjat7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Shivamjat7/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
