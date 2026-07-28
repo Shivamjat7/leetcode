@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Shivamjat7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamjat7/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3128-right-triangles](https://github.com/Shivamjat7/leetcode/tree/master/3128-right-triangles) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivamjat7/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Shivamjat7/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivamjat7/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shivamjat7/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Shivamjat7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamjat7/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2405-optimal-partition-of-string](https://github.com/Shivamjat7/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamjat7/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Shivamjat7/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivamjat7/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/Shivamjat7/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Shivamjat7/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2611-mice-and-cheese](https://github.com/Shivamjat7/leetcode/tree/master/2611-mice-and-cheese) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Shivamjat7/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
