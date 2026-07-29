@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Shivamjat7/leetcode/tree/master/0403-frog-jump) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
+| [0474-ones-and-zeroes](https://github.com/Shivamjat7/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/Shivamjat7/leetcode/tree/master/0565-array-nesting) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Shivamjat7/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivamjat7/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Shivamjat7/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Shivamjat7/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0678-valid-parenthesis-string](https://github.com/Shivamjat7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Shivamjat7/leetcode/tree/master/0174-dungeon-game) |
 | [0343-integer-break](https://github.com/Shivamjat7/leetcode/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/Shivamjat7/leetcode/tree/master/0403-frog-jump) |
+| [0474-ones-and-zeroes](https://github.com/Shivamjat7/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Shivamjat7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Shivamjat7/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
