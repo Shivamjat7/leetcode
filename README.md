@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/Shivamjat7/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
+| [0506-relative-ranks](https://github.com/Shivamjat7/leetcode/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shivamjat7/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0554-brick-wall](https://github.com/Shivamjat7/leetcode/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/Shivamjat7/leetcode/tree/master/0565-array-nesting) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Shivamjat7/leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0436-find-right-interval](https://github.com/Shivamjat7/leetcode/tree/master/0436-find-right-interval) |
+| [0506-relative-ranks](https://github.com/Shivamjat7/leetcode/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shivamjat7/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
