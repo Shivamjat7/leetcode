@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Shivamjat7/leetcode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Shivamjat7/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shivamjat7/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Shivamjat7/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shivamjat7/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Shivamjat7/leetcode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/Shivamjat7/leetcode/tree/master/0399-evaluate-division) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Shivamjat7/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1192-critical-connections-in-a-network](https://github.com/Shivamjat7/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/Shivamjat7/leetcode/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shivamjat7/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Shivamjat7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Shivamjat7/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Shivamjat7/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/Shivamjat7/leetcode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shivamjat7/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1092-shortest-common-supersequence](https://github.com/Shivamjat7/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Shivamjat7/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0393-utf-8-validation](https://github.com/Shivamjat7/leetcode/tree/master/0393-utf-8-validation) |
 | [0477-total-hamming-distance](https://github.com/Shivamjat7/leetcode/tree/master/0477-total-hamming-distance) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Shivamjat7/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Shivamjat7/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/Shivamjat7/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivamjat7/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -456,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shivamjat7/leetcode/tree/master/0877-stone-game) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Shivamjat7/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
