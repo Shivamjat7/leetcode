@@ -13,7 +13,17 @@ public:
     bool stoneGame(vector<int>& piles) {
         total = accumulate(piles.begin(),piles.end(),0ll);
         n=piles.size();
-        vector<vector<int>>dp(n,vector<int>(total+1,-1));
-        return solve(0,0,piles,dp);
+        vector<vector<int>>dp(n/2+1,vector<int>(total+1,0));
+        for(int sum=0;sum<total;sum++){
+            if(sum>(total-sum))dp[n/2][sum]=1;
+        }
+        for(int i=n/2-1;i>=0;i--){
+            for(int sum=0;sum<(total-sum);sum++){
+                dp[i][sum]=dp[i+1][sum+piles[i]]||dp[i+1][sum+piles[n-1-i]];
+            }
+        }
+        return dp[0][0];
+
+        
     }
 };
