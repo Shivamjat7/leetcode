@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shivamjat7/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Shivamjat7/leetcode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3597-partition-string](https://github.com/Shivamjat7/leetcode/tree/master/3597-partition-string) |
+| [3945-digit-frequency-score](https://github.com/Shivamjat7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivamjat7/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Shivamjat7/leetcode/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/Shivamjat7/leetcode/tree/master/3899-angles-of-a-triangle) |
+| [3945-digit-frequency-score](https://github.com/Shivamjat7/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
