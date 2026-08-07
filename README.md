@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Shivamjat7/leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Shivamjat7/leetcode/tree/master/0641-design-circular-deque) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivamjat7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Shivamjat7/leetcode/tree/master/0827-making-a-large-island) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Shivamjat7/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Shivamjat7/leetcode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Shivamjat7/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivamjat7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Shivamjat7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Shivamjat7/leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shivamjat7/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shivamjat7/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shivamjat7/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivamjat7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Shivamjat7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Shivamjat7/leetcode/tree/master/0763-partition-labels) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Shivamjat7/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Shivamjat7/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/Shivamjat7/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamjat7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivamjat7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0791-custom-sort-string](https://github.com/Shivamjat7/leetcode/tree/master/0791-custom-sort-string) |
 | [1288-remove-covered-intervals](https://github.com/Shivamjat7/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamjat7/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -475,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Shivamjat7/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivamjat7/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
